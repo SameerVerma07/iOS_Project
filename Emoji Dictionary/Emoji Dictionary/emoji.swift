@@ -2,7 +2,7 @@
 //  emoji.swift
 //  Emoji Dictionary
 //
-//  Created by Batch-2 on 23/04/24.
+//  Created by Sameer Verma on 23/04/24.
 //
 
 import Foundation

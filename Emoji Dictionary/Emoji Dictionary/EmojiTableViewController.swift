@@ -1,3 +1,6 @@
+//  Created by Sameer Verma on 23/04/24.
+//  Created by Sameer Verma on 23/04/24.
+
 import UIKit
 
 class EmojiTableViewController: UITableViewController {
@@ -92,6 +95,8 @@ class EmojiTableViewController: UITableViewController {
             emojis.append(emoji)
             tableView.insertRows(at: [newIndexPath], with: .automatic)
         }
+        //  Created by Sameer Verma on 23/04/24.
+        //  Created by Sameer Verma on 23/04/24.
     }
     
 }

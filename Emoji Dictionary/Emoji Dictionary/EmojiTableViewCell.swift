@@ -1,5 +1,7 @@
-import UIKit
+//  Created by Sameer Verma on 23/04/24.
+//  Created by Sameer Verma on 23/04/24.
 
+import UIKit
 class EmojiTableViewCell: UITableViewCell {
     
     @IBOutlet var symbolLabel: UILabel!
@@ -18,6 +20,9 @@ class EmojiTableViewCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
+    
+    //  Created by Sameer Verma on 23/04/24.
+    //  Created by Sameer Verma on 23/04/24.
     
     func update(emoji: Emoji) {
         symbolLabel.text = emoji.symbol
